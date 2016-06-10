@@ -1,0 +1,10 @@
+{
+  "name": "det-parse",
+  "version": "0.0.1",
+  "synopsis": "Deterministic parser combinators",
+  "author": "Jonas Oberschweiber",
+  "source": {
+    "git": "ssh://git@git.ps.informatik.uni-kiel.de:55055/joo/det-parse.git",
+    "tag": "v0.0.1"
+  }
+}
