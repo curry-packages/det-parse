@@ -4,7 +4,7 @@
   "synopsis": "Deterministic parser combinators",
   "author": "Jonas Oberschweiber",
   "source": {
-    "git": "ssh://git@git.ps.informatik.uni-kiel.de:55055/joo/det-parse.git",
+    "git": "https://git.ps.informatik.uni-kiel.de/curry-packages/det-parse.git",
     "tag": "v0.0.1"
   }
 }
