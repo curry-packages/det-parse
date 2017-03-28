@@ -2,6 +2,7 @@
   "name": "det-parse",
   "version": "0.0.1",
   "synopsis": "Deterministic parser combinators",
+  "category": [ "Parsing" ],
   "author": "Jonas Oberschweiber",
   "source": {
     "git": "https://git.ps.informatik.uni-kiel.de/curry-packages/det-parse.git",
