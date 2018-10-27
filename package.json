@@ -5,6 +5,7 @@
     "category": [ "Parsing" ],
     "author": "Jonas Oberschweiber",
     "dependencies": {
+        "base" : ">= 2.0.0"
     },
     "compilerCompatibility": {
         "pakcs": ">= 2.0.0",
