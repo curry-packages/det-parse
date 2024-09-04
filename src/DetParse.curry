@@ -1,3 +1,10 @@
+------------------------------------------------------------------------------
+--- Library with deterministic logic parser combinators.
+---
+--- @author Jonas Oberschweiber
+--- @version August 2018
+------------------------------------------------------------------------------
+
 module DetParse where
 
 import Prelude hiding ((<$>))
